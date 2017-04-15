@@ -19,9 +19,8 @@ Join [this Slack channel](https://diversityoftheweb.slack.com/shared_invite/MTY5
 
 Here's how you can get the data:
 
-* [Results as a CSV][http://whatever]
-* [Results as Excell][http://whatever]
-* [Results as SQL][http://whatever]
+* [Results as a CSV](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.csv)
+* [Results as SQL](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.sql)
 * Development environments on Pantheon with the data pre-loaded into MySQL
 
 ## TODO:
