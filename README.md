@@ -1,6 +1,6 @@
 # Pantheon / HackBright Data Challenge
 
-In 2016, we organized a [community initiative](https://github.com/drupaldiversity/diversity-of-the-web) to survey, understand and celebrated diversity in the web development community.  
+In 2016, we organized a [community initiative](https://github.com/drupaldiversity/diversity-of-the-web) to survey, understand and celebrated diversity in the web development community.  We got over 600 responses, about everything from gender identification to relgious identification to disability identification.
 
 Your task is to derive some insights from the result data, and prepare it for presenation.  The deliverable could be HTML, a Google Presentation, or a whiteboard.
 
@@ -21,6 +21,7 @@ Here's how you can get the data:
 
 * [Results as a CSV](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.csv)
 * [Results as SQL](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.sql)
+* [Results as Google Sheet](https://docs.google.com/spreadsheets/d/1PYJk_vx6eOO2cosqywD0-ZhQM6Eki8RA0r_F2tw9V4I/edit#gid=1641068829)
 * Development environments on Pantheon with the data pre-loaded into MySQL
 
 ## TODO:
