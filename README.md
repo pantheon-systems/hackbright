@@ -1,0 +1,36 @@
+# Pantheon / HackBright Data Challenge
+
+In 2016, we organized a [community initiative](https://github.com/drupaldiversity/diversity-of-the-web) to survey, understand and celebrated diversity in the web development community.  
+
+Your task is to derive some insights from the result data, and prepare it for presenation.  The deliverable could be HTML, a Google Presentation, or a whiteboard.
+
+Here's what that might look like as a user-story:
+
+> As a member of the web community, I want insights into the diversity of the web-development community, so that I can better understand how to interact with and improve the community.
+
+Specifically, these are the "Acceptance Criteria", the minimum needed to satisfy the requirements.
+
+> Given I am a member of the web community, when I view the analysis, there are three insights presented
+> Given I am a member of the web community, when I view the analysis, the data driving the insights is present and visualized
+
+### Resources
+
+Join [this Slack channel](https://diversityoftheweb.slack.com/shared_invite/MTY5NjYwNDQyNDA0LTE0OTIyMDk2MjktNDc4MmMxMTY2OQ), for sharing links, etc.
+
+Here's how you can get the data:
+
+* [Results as a CSV][http://whatever]
+* [Results as Excell][http://whatever]
+* [Results as SQL][http://whatever]
+* Development environments on Pantheon with the data pre-loaded into MySQL
+
+## TODO:
+* Send email to Hackbrighters
+* Get pantheors
+* Get readme with instructions, CSV link, slack link, etc. SHOULD YOU CHOOSE TO ACCEPT IT.
+* Clean up site, index.php
+* Put readme in diversityoftheweb
+* Put results in diversityoftheweb
+
+
+* XLS: https://docs.google.com/spreadsheets/d/1PYJk_vx6eOO2cosqywD0-ZhQM6Eki8RA0r_F2tw9V4I/edit#gid=1641068829
