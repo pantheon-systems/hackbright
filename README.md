@@ -11,6 +11,7 @@ Here's what that might look like as a user-story:
 Specifically, these are the "Acceptance Criteria", the minimum needed to satisfy the requirements.
 
 > Given I am a member of the web community, when I view the analysis, there are three insights presented
+
 > Given I am a member of the web community, when I view the analysis, the data driving the insights is present and visualized
 
 ### Resources
