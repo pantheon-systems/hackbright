@@ -1,4 +1,4 @@
-![Pantheon and Hackbright](https://raw.github.com/pantheon/hackbright/master/logos.png)
+![Pantheon and Hackbright](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/logos.png)
 
 # Pantheon / HackBright Data Challenge
 
