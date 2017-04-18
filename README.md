@@ -1,3 +1,5 @@
+![Pantheon and Hackbright](https://raw.github.com/pantheon/hackbright/master/logos.png)
+
 # Pantheon / HackBright Data Challenge
 
 In 2016, we organized a [community initiative](https://github.com/drupaldiversity/diversity-of-the-web) to survey, understand and celebrated diversity in the web development community.  We got over 600 responses, about everything from gender identification to relgious identification to disability identification.
@@ -26,12 +28,8 @@ Here's how you can get the data:
 * Development environments on Pantheon with the data pre-loaded into MySQL
 
 ## TODO:
-* Send email to Hackbrighters
-* Get pantheors
-* Get readme with instructions, CSV link, slack link, etc. SHOULD YOU CHOOSE TO ACCEPT IT.
+* Get our 'before your interview', print several copies.
+* Assign groups: Krejci, Ben, Kim, Adam, Me.
 * Clean up site, index.php
-* Put readme in diversityoftheweb
-* Put results in diversityoftheweb
-
-
-* XLS: https://docs.google.com/spreadsheets/d/1PYJk_vx6eOO2cosqywD0-ZhQM6Eki8RA0r_F2tw9V4I/edit#gid=1641068829
+* AV Setup for Thursday, ask steven.
+* Dinner setup.  Should be OK.
