@@ -2,6 +2,14 @@
 
 # Pantheon / HackBright Data Challenge
 
+## Schedule
+
+* 6-6:30 Dinner, mingling
+* 6:30-7:30 Group Problem Solving
+* 7:30-8 Present as group
+
+## Problem Solving
+
 In 2016, we organized a community initiative dubbed [The Diversity Of The Web](https://github.com/drupaldiversity/diversity-of-the-web) to survey, understand and celebrated diversity in the web development community.  We got over 600 responses, about everything from gender identification to relgious identification to disability identification.
 
 Your task is to derive some insights from the result data, and prepare it for presentation.  The deliverable could be HTML, a Google Presentation, or a whiteboard.
