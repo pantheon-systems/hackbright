@@ -24,6 +24,8 @@ Join [this Slack channel](https://diversityoftheweb.slack.com/shared_invite/MTY5
 
 Here's how you can get the data:
 
+* [Live Survey](https://www.getfeedback.com/r/YTxWLJqn/53172847-72b1-4d7a-8b56-8f800df84587)
+* [Survey Questions](https://github.com/drupaldiversity/diversity-of-the-web/blob/master/SURVEY.md)
 * [Results as a CSV](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.csv)
 * [Results as SQL](https://raw.githubusercontent.com/pantheon-systems/hackbright/master/cleaned_response_data_4_13_17.sql)
 * [Results as Google Sheet](https://docs.google.com/spreadsheets/d/1PYJk_vx6eOO2cosqywD0-ZhQM6Eki8RA0r_F2tw9V4I/edit#gid=1641068829)
