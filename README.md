@@ -49,6 +49,7 @@ Answer these:
 * Are community members from an affluent childhood more to have a technical degree?
 * Are there any common answers among people who identify as other than M or F?
 * (see common questions below)
+* BONUS: What's another insight you had from the data?
 
 ### Group Two
 Spirit guides: Kim+Ian
@@ -59,6 +60,7 @@ Answer these:
 * what roles most often were most often also formal managers?
 * is there a relationship between size of company and "at work I feel comfortable expressing identity"
 * (see common questions below)
+* BONUS: What's another insight you had from the data?
 
 ### Group Three
 Spirit guides: Adam & Nikki
@@ -69,6 +71,7 @@ Answer these:
 * what roles were most often informal managers?
 * what were the most common overlaps in role?
 * (see common questions below)
+* BONUS: What's another insight you had from the data?
 
 ### Group Four
 Spirit guides: Sujay & Kyle
@@ -79,6 +82,7 @@ Answer these:
 * what are the urban/rural/suburban demographics of people who say "It's important to me to to feel comfortable?"
 * is there a relationship between gender and years of experience?
 * (see common questions below)
+* BONUS: What's another insight you had from the data?
 
 ## Common Questions
 
