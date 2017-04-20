@@ -34,8 +34,8 @@ Here's how you can get the data:
 ## Here's what we're looking for:
 
 * Quantity/Difficulty: Can you answer all the questions?  The difficult questions?
-* Accuracy: Can you answer the questions accurately?A
-* Time/team management: Can you work as a group with a timing constraint (hint fewer answers beats no presentation)?
+* Accuracy: Can you answer the questions accurately?
+* Time/team management: Can you work as a group with a timing constraint? (hint: fewer answers beats no presentation)
 * Presentation/Communication: Can you communicate the answers to your questions?
 
 ## Groups
@@ -48,7 +48,7 @@ Spirit guides: Michelle & Ben
 Answer these:
 * What percentage of the community fulfills each role?
 * Is the data's ethnic breakdown roughly representative of the US's gender breakdown?
-* Are community members from an affluent childhood more to have a technical degree?
+* Are community members from an affluent childhood more likely to have a technical degree?
 * Are there any common answers among people who identify as other than M or F?
 * (see common questions below)
 * BONUS: What's another insight you had from the data?
@@ -59,8 +59,8 @@ Spirit guides: Kim+Ian
 Answer these:
 * What percentages of the community live in urban/suburban/rural areas?
 * Does the distribution of country of origin indicate an even sampling across continents?
-* what roles most often were most often also formal managers?
-* is there a relationship between size of company and "at work I feel comfortable expressing identity"
+* What roles were most often also formal managers?
+* Is there a relationship between size of company and "at work I feel comfortable expressing identity"?
 * (see common questions below)
 * BONUS: What's another insight you had from the data?
 
@@ -70,8 +70,8 @@ Spirit guides: Adam & Nikki
 Answer these:
 * What percentage of community members identified as a religious minority?
 * Is the percentage of college graduates more or less than the average for the US?
-* what roles were most often informal managers?
-* what were the most common overlaps in role?
+* What roles were most often informal managers?
+* What were the most common overlaps in role?
 * (see common questions below)
 * BONUS: What's another insight you had from the data?
 
@@ -81,13 +81,13 @@ Spirit guides: Sujay & Kyle
 Answer these:
 * What percentage of community members are formal or informal managers?
 * Is the data's gender breakdown representative of the US's gender breakdown?
-* what are the urban/rural/suburban demographics of people who say "It's important to me to to feel comfortable?"
-* is there a relationship between gender and years of experience?
+* What are the urban/rural/suburban demographics of people who say "It's important to me to to feel comfortable?"
+* Is there a relationship between gender and years of experience?
 * (see common questions below)
 * BONUS: What's another insight you had from the data?
 
 ## Common Questions
 
-In once sentence…
+In one sentence…
 * What biases could be represented in this analysis? How could we mitigate those biases?
 * What effect could unanswered (optional) questions have on this analysis?
