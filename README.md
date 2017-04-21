@@ -37,6 +37,7 @@ Here's how you can get the data:
 * Accuracy: Can you answer the questions accurately?
 * Time/team management: Can you work as a group with a timing constraint? (hint: fewer answers beats no presentation)
 * Presentation/Communication: Can you communicate the answers to your questions?
+* Approach:  How do you approach solving unfamiliar problems?
 
 ## Groups
 
