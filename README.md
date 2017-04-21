@@ -46,7 +46,7 @@ Each group has a few questions to answer.  The questions generally start easy an
 Spirit guides: Michelle & Ben
 
 Answer these:
-* What percentage of the community fulfills each role?
+* For each role, what percentage of the community identifies as fullfilling that role?
 * Is the data's ethnic breakdown roughly representative of the US's ethnic breakdown?
 * Are community members from an affluent childhood more likely to have a technical degree?
 * Are there any common answers among people who identify as other than M or F?
