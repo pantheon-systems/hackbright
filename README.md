@@ -86,6 +86,17 @@ Answer these:
 * (see common questions below)
 * BONUS: What's another insight you had from the data?
 
+### Group Five
+Spirit guides: Nick
+
+Answer these:
+* What percentage of the respondents are in each age grouping?
+* Is the data's gender breakdown representative of the US's gender breakdown?
+* Are people with physical disabilities more likely to live in urban areas?
+* Is there a relationship between disabilities and company size?
+* (see common questions below)
+* BONUS: What's another insight you had from the data?
+
 ## Common Questions
 
 In once sentence…
